@@ -37,5 +37,32 @@ $ git config --global user.name 유저이름
 $ git config --global user.email 유저이메일
 ```
 
+6. 커밋 기록 확인하기
+
+   ```shell
+   $ git log --oneline
+   ```
+
+   
+
+## GITHUB = 원격(remote)저장소
+
+- github
+- gitlab(ssafy)
+
+내 컴퓨터의 저장소 -> github의 저장소로
+
+(다른이름의 다른주소로도 등록 가능)
+
+```shell
+$ git remote add origin https://github.com/jjiani/TIL.git
+```
+
+```shell
+$ git push origin(어디에) master
+```
+
+
+
 
 
