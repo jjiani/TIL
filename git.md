@@ -64,5 +64,19 @@ $ git push origin(어디에) master
 
 
 
+수정 - add commit push
+
+if 내 컴퓨터가 포맷된경우?:
+
+​	원격 저장소에 있는 repo를 내 컴퓨터로 다운로드!
+
+```shell
+$ git clone shift+insert(저장주소)
+```
+
+
+
+
+
 
 
